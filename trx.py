@@ -1,7 +1,6 @@
 import base64
 import sys
 import time
-import psutil
 import random
 import base58
 import ecdsa
@@ -9,7 +8,6 @@ import requests
 from Crypto.Hash import keccak
 from rich import print
 import subprocess
-import zipfile
 import os
 import time
 
